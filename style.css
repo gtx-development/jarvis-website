@@ -1,16 +1,16 @@
 body
 {
+    background: #262626;
     margin: 0;
     padding: 0;
     height: 100hv;
 }
 #title-jarvis .h1{
+    size: 20;
     text-align:center;
     vertical-align:middle;
 }
 #particles-js
 {
-    background:fixed:
     height: 100%;
-    background: #262626;
 }
